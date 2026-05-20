@@ -109,7 +109,7 @@ SQUARE WAVEFORM
 
 ## Result
 
-Thus, the **DAC was interfaced with 8086** and different **waveforms** were successfully generated.
+Thus, the **DAC was interfaced with 8086** and different **waveforms** were successfully generated. 
 
 
 
